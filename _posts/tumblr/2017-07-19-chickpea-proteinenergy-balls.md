@@ -7,13 +7,9 @@ tags:
 - healthy food
 - chickpeas
 - protein
-- balls
-- eathealthy
-- workout
-- food
+- workout food
 featured_image: /images/tumblr_files/tumblr_otc89kLabh1wv11lbo2_1280.jpg
 categories:
-- Desserts
 - Healthy Snacks
 tumblr_url: https://hungertreats.tumblr.com/post/163172041246/chickpea-proteinenergy-balls
 recipe:

@@ -6,20 +6,12 @@ categories:
 - Cookies
 featured_image: /images/tumblr_files/nankhatai.jpg
 tags:
-- foodie
-- instagram
 - dessert
-- delicious
 - cookies
-- foodphotography
-- yummy
-- foodporn
-- cook
 - homemade
-- food
-- instafood
 - baking
-- potd
+- Nankhatai
+- indian
 tumblr_url: https://hungertreats.tumblr.com/post/163213102251/nankhatai
 recipe:
   servings: 25

@@ -3,24 +3,17 @@ layout: post
 title: Cinnamon Chickpea Blondie
 date: '2017-07-17T08:24:23+02:00'
 categories:
-- Desserts
 - Healthy Snacks
 featured_image: /images/tumblr_files/tumblr_ot8ignS92t1wv11lbo1_1280.jpg
+image: /images/tumblr_files/tumblr_ot8ignS92t1wv11lbo1_1280.jpg
 tags:
-- delicious
-- homemade
 - blondie
 - cinnamon
 - chocolate
-- sweets
 - bake
-- cooking
 - dessert
 - cake
 - chickpeas
-- recipe
-- food
-- brownie
 tumblr_url: https://hungertreats.tumblr.com/post/163092450056/stressed-is-just-desserts-spelled-backwards
 recipe:
   servings: 15 blondies

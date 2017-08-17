@@ -5,7 +5,7 @@ title: Hunger Treats
 url: "https://hungertreats.github.io/"
 baseurl:
 google_analytics_key: UA-104740619-1
-newsletter_action: "//your-mailchimp-action-url.com"
+newsletter_action: "//github.us16.list-manage.com/subscribe/post?u=b0fc3c491397aaf8a0095c065&amp;id=cbbafddb0f"
 disqus_shortname: hunger-treats
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -19,6 +19,10 @@ social:
   name: Hunger Treats
   links:
     - https://hungertreats.github.io
+twitter:
+  username: hungertreats
+facebook:
+  publisher: https://www.facebook.com/hungertreats
 
 # -----
 # Build
