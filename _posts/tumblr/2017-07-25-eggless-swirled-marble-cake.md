@@ -4,7 +4,7 @@ title: Eggless Swirled Marble Cake
 date: '2017-07-25T08:28:26+02:00'
 categories:
 - Cakes
-featured_image: /images/tumblr_files/marblecake2.JPG
+featured_image: /images/tumblr_files/marblecake2.jpg
 tags:
 - cake
 - chocolate
@@ -48,4 +48,4 @@ footer: If you try this recipe, do let me know how it went and snap your picture
 ---
 An easy & delicious cake that never goes out of fashion. Loved the swirls!🍰
 
-![](/images/tumblr_files/marblecake1.JPG)
+![](/images/tumblr_files/marblecake1.jpg)
