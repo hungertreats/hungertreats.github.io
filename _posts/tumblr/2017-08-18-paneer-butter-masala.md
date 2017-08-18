@@ -46,7 +46,7 @@ recipe:
     1. In a large pan or kadhai, heat a tablespoon of butter and a tablespoon of oil.
     2. Add red chillies, ginger, garlic, and all the whole spices (bay leaves, cinnamon, cloves, cardamom and peppercorns). Saute for a minute or two and add green chillies, cashew nuts, and onions. Once the onions turn translucent, add the tomatoes. Mix well.
     3. Cover and cook till the tomatoes start breaking down and the mixture starts leaving oil at the edges. It will take 5-7 minutes. Switch off the flame and set aside to cool.
-    4. Once the mixture cool down, grind the mixture to a smooth paste.
+    4. Once the mixture cools down, grind the mixture to a smooth paste.
     5. In the same pan or kadhai, heat the remaining butter and add the gravy paste made in step 4.
     6. Add turmeric powder, red chilli powder, cumin and coriander powder. Mix well.
     7. Now add garam masala, sugar and salt along with 1/2 cup water and 1/2 cup milk. Bring the gravy to a boil.
@@ -54,9 +54,15 @@ recipe:
     9. Now, Gently add paneer cubes to the gravy and mix well. Add crushed kasoori methi and cook for approx 2 minutes or until you get the desired consistency.
     9.  Add fresh cream, mix properly and switch off the flame.
     10. Garnish with fresh cream and coriander leaves and serve hot!
+  notes:
+    title: Tips
+    markdown: |-
+      * Add 1/2 cup  water in step 8 and cook for 3-4 minutes if the gravy is too thick.
+      * If you like creamier gravy, then add more cream in step 9. Alternatively, if you do not like creamy taste, then you can altogether avoid using cream.
 footer: |-
   <p>If you give this recipe a try, let us know! Leave a comment, take a picture, post it on Instagram and tag me @deepika2808.</p>
   <p>Happy Cooking! :)</p>
+
 ---
 Utterly Butterly Delicious!😋 Just the thing you need when you are craving comfort food but want something that hits all the right notes. And if you are a paneer lover, it is the king of all paneer recipes!
 

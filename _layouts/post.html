@@ -29,6 +29,13 @@ layout: default
 		</div>
 	</div>
 
+	{% if page.recipe.notes %}
+		<div class="recipe-notes">
+			<h3> {{ page.recipe.notes.title }}</h3>
+			{{ page.recipe.notes.markdown | markdownify }}
+		</div>
+	{% endif %}
+
 	<div class="recipe-body">
 		{{ page.footer }}
 	</div>
