@@ -12,7 +12,7 @@ featured_image: /images/tumblr_files/Paneer1.jpg
 categories:
 - Main Course
 recipe:
-  servings: 20 balls
+  servings: 3
   prep: 15 minutes
   cook: 25-30 minutes
   ingredients_markdown: |-
@@ -58,9 +58,7 @@ footer: |-
   <p>If you give this recipe a try, let us know! Leave a comment, take a picture, post it on Instagram and tag me @deepika2808.</p>
   <p>Happy Cooking! :)</p>
 ---
-Utterly Butterly Delicious!😋
-
-Just the thing you need when you are craving comfort food but want something that hits all the right notes. And if you are a paneer lover, it is the king of all paneer recipes!
+Utterly Butterly Delicious!😋 Just the thing you need when you are craving comfort food but want something that hits all the right notes. And if you are a paneer lover, it is the king of all paneer recipes!
 
 ![](/images/tumblr_files/Paneer2.jpg)
 
