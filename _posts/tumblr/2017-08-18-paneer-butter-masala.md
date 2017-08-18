@@ -8,7 +8,7 @@ tags:
 - vegetarian
 - indian
 - gravy
-featured_image: /images/tumblr_files/paneer1.jpg
+featured_image: /images/tumblr_files/Paneer1.jpg
 categories:
 - Main Course
 recipe:
@@ -58,9 +58,11 @@ footer: |-
   <p>If you give this recipe a try, let us know! Leave a comment, take a picture, post it on Instagram and tag me @deepika2808.</p>
   <p>Happy Cooking! :)</p>
 ---
-Paneer Butter Masala: Utterly Butterly Delicious!😋 Just the thing you need when you are craving comfort food but want something that hits all the right notes. And if you are a paneer lover, it is the king of all paneer recipes!
+Utterly Butterly Delicious!😋
 
-![](/images/tumblr_files/paneer2.jpg)
+Just the thing you need when you are craving comfort food but want something that hits all the right notes. And if you are a paneer lover, it is the king of all paneer recipes!
+
+![](/images/tumblr_files/Paneer2.jpg)
 
 Rich in cream and perfect combination of spices in its gravy makes it simply irresistible and versatile. Whether you serve it with tandoori roti, naan, kulcha, parantha or with steamed rice, it’s going to satisfy your palate like never before!🍛
 
