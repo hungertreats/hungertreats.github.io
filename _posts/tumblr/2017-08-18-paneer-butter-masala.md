@@ -55,7 +55,7 @@ recipe:
     9.  Add fresh cream, mix properly and switch off the flame.
     10. Garnish with fresh cream and coriander leaves and serve hot!
   notes:
-    title: Tips
+    title: "Tips:"
     markdown: |-
       * Add 1/2 cup  water in step 8 and cook for 3-4 minutes if the gravy is too thick.
       * If you like creamier gravy, then add more cream in step 9. Alternatively, if you do not like creamy taste, then you can altogether avoid using cream.
