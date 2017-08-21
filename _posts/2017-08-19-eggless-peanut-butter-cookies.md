@@ -15,9 +15,9 @@ featured_image: "/images/post_images/pbc1.jpg"
 categories:
 - Cookies
 recipe:
-  servings: 3
+  servings: 24 cookies
   prep: 15 minutes
-  cook: 25-30 minutes
+  cook: 14-15 minutes
   ingredients_markdown: |-
     * 80 grams or 1/3  cup Unsalted Butter
     * 125 grams or 1/2 cup Unsweetened Peanut Butter
