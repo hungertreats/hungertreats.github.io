@@ -8,7 +8,7 @@ tags:
 - vegetarian
 - indian
 - gravy
-featured_image: /images/tumblr_files/Paneer1.jpg
+image: /images/tumblr_files/Paneer1.jpg
 categories:
 - Main Course
 recipe:

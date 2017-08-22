@@ -12,7 +12,7 @@ tags:
 - spaghetti
 - hakka
 tumblr_url: https://hungertreats.tumblr.com/post/163754336161/spicy-veg-noodles
-featured_image: /images/tumblr_files/noodles.jpg
+image: /images/tumblr_files/noodles.jpg
 recipe:
   servings: 3
   prep: 15 minutes

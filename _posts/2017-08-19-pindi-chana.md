@@ -11,7 +11,7 @@ tags:
 - gravy
 - vegetarian
 - main course
-featured_image: "/images/post_images/pc1.jpg"
+image: "/images/post_images/pc1.jpg"
 categories:
 - Main Course
 recipe:

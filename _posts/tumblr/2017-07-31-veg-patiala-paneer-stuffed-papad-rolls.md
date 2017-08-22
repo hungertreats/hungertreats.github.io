@@ -13,7 +13,7 @@ tags:
 - vegetarian
 - gravy
 tumblr_url: https://hungertreats.tumblr.com/post/163649535261/veg-patiala-paneer-stuffed-papad-rolls
-featured_image: /images/tumblr_files/vegpatiala.jpg
+image: /images/tumblr_files/vegpatiala.jpg
 recipe:
   servings: 4
   prep: 30 minutes

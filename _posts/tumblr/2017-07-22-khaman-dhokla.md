@@ -8,7 +8,7 @@ tags:
 - snack
 - potd
 - Khaman
-featured_image: /images/tumblr_files/khaman.jpg
+image: /images/tumblr_files/khaman.jpg
 categories:
 - Indian Snacks
 tumblr_url: https://hungertreats.tumblr.com/post/163289344306/khaman-dhokla

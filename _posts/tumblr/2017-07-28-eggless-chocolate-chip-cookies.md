@@ -7,7 +7,7 @@ tags:
 - chocolatechips
 - sugarcookies
 - desserts
-featured_image: /images/tumblr_files/cookie.jpg
+image: /images/tumblr_files/cookie.jpg
 categories:
 - Cookies
 tumblr_url: https://hungertreats.tumblr.com/post/163524089211/eggless-chocolate-chip-cookies

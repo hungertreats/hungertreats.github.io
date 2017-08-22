@@ -4,7 +4,7 @@ title: Cinnamon Chickpea Blondie
 date: '2017-07-17T08:24:23+02:00'
 categories:
 - Healthy Snacks
-featured_image: /images/tumblr_files/tumblr_ot8ignS92t1wv11lbo1_1280.jpg
+image: /images/tumblr_files/tumblr_ot8ignS92t1wv11lbo1_1280.jpg
 image: /images/tumblr_files/tumblr_ot8ignS92t1wv11lbo1_1280.jpg
 tags:
 - blondie

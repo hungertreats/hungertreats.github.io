@@ -2,7 +2,7 @@
 title:
 categories:
 date:
-featured_image:
+image:
 author: Deepika Goyal
 recipe:
   servings:

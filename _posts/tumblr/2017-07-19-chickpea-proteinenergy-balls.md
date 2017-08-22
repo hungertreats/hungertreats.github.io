@@ -8,7 +8,7 @@ tags:
 - chickpeas
 - protein
 - workout food
-featured_image: /images/tumblr_files/tumblr_otc89kLabh1wv11lbo2_1280.jpg
+image: /images/tumblr_files/tumblr_otc89kLabh1wv11lbo2_1280.jpg
 categories:
 - Healthy Snacks
 tumblr_url: https://hungertreats.tumblr.com/post/163172041246/chickpea-proteinenergy-balls

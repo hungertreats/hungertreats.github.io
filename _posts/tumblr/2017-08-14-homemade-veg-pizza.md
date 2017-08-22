@@ -8,7 +8,7 @@ tags:
 - vegetarian
 - thin crust
 - cheese
-featured_image: /images/tumblr_files/pizza.jpg
+image: /images/tumblr_files/pizza.jpg
 categories:
 - Main Course
 tumblr_url: https://hungertreats.tumblr.com/post/164174854281/homemade-veg-pizza

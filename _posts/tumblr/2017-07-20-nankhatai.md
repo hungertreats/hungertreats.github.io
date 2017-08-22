@@ -4,7 +4,7 @@ title: Nankhatai
 date: '2017-07-20T10:03:05+02:00'
 categories:
 - Cookies
-featured_image: /images/tumblr_files/nankhatai.jpg
+image: /images/tumblr_files/nankhatai.jpg
 tags:
 - dessert
 - cookies

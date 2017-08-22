@@ -11,7 +11,7 @@ tags:
 - peanut butter
 - chocolate chips
 - snacks
-featured_image: "/images/post_images/pbc1.jpg"
+image: "/images/post_images/pbc1.jpg"
 categories:
 - Cookies
 recipe:
@@ -58,7 +58,7 @@ Soft. Crunchy. Crumbly! These simple and delicious peanut butter cookies made wi
 ![](/images/post_images/pbc2.jpg)
 
 
-These peanut butter cookies are another yummy way of satisfying your peanut butter cravings. Have them with a cup of evening coffee or tea and enjoy! 
+These peanut butter cookies are another yummy way of satisfying your peanut butter cravings. Have them with a cup of evening coffee or tea and enjoy!
 
 ![](/images/post_images/pbc3.jpg)
 
