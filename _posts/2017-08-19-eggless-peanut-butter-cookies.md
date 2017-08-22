@@ -16,7 +16,7 @@ categories:
 - Cookies
 recipe:
   servings: 24 cookies
-  prep: 15 minutes
+  prep: 30 minutes
   cook: 14-15 minutes
   ingredients_markdown: |-
     * 80 grams or 1/3  cup Unsalted Butter
