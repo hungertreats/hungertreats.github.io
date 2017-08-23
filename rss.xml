@@ -18,6 +18,7 @@ layout: null
           <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
 					{% if post.image %}
             <media:content url="{{ site.url }}{{ post.image }}" medium="image" />
+						<enclosure url="{{ site.url }}{{ post.image }}" type="image/jpeg" />
           {% endif %}
         </item>
       {% endunless %}
