@@ -47,6 +47,6 @@ recipe:
 Simple! Cheap! Delicious! Energy balls are one of our favorite snacks because they take minimal prep time and often no baking at all and are packed with a lot of protein, and are utterly delicious and filling. Enjoy them as an evening snack or post-workout!
 
 You can coat them with melted chocolate, cocoa powder or simply scapped coconut.
-![](/images/tumblr_files/tumblr_otc89kLabh1wv11lbo1_1280.jpg)
+![]({{site.url}}/images/tumblr_files/tumblr_otc89kLabh1wv11lbo1_1280.jpg)
 
 If you make this or any of my recipes, snap a sweet pic, post it on Instagram and tag me @deepika2808 :)

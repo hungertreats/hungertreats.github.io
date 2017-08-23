@@ -66,7 +66,7 @@ footer: |-
 ---
 Utterly Butterly Delicious!😋 Just the thing you need when you are craving comfort food but want something that hits all the right notes. And if you are a paneer lover, it is the king of all paneer recipes!
 
-![](/images/tumblr_files/Paneer2.jpg)
+![]({{site.url}}/images/tumblr_files/Paneer2.jpg)
 
 Rich in cream and perfect combination of spices in its gravy makes it simply irresistible and versatile. Whether you serve it with tandoori roti, naan, kulcha, parantha or with steamed rice, it’s going to satisfy your palate like never before!🍛
 

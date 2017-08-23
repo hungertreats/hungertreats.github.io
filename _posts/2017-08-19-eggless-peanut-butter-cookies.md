@@ -55,12 +55,12 @@ footer: |-
 
 Soft. Crunchy. Crumbly! These simple and delicious peanut butter cookies made with homemade peanut butter and loaded with chocolate chips will delight the kids and grown ups alike!🍪
 
-![](/images/post_images/pbc2.jpg)
+![]({{site.url}}/images/post_images/pbc2.jpg)
 
 
 These peanut butter cookies are another yummy way of satisfying your peanut butter cravings. Have them with a cup of evening coffee or tea and enjoy!
 
-![](/images/post_images/pbc3.jpg)
+![]({{site.url}}/images/post_images/pbc3.jpg)
 
 
 

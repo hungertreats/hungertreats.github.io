@@ -71,7 +71,7 @@ footer: |-
 
 A gift from Rawalpindi, Pindi Chole or Pindi Chana is an authentic and rustic chickpea maincourse dish cooked in traditional spices. Believe me, this dish is so delicious! The aroma and good looks of this dish add another reason for making it irresistible! It is best served with kulcha, poori or bhatura but you can pair it with any bread of your choice and enjoy!😋🍛⠀
 
-![](/images/post_images/pc2.jpg)
+![]({{site.url}}/images/post_images/pc2.jpg)
 
 While it is common in most parts of the country to flavour chole with readymade chole masala, what makes the Pindi Chana really different from the rest is making it with freshly ground spices at home and the procedure of cooking kabuli chana in combination with chana dal .
 

@@ -48,4 +48,4 @@ footer: If you try this recipe, do let me know how it went and snap your picture
 ---
 An easy & delicious cake that never goes out of fashion. Loved the swirls!🍰
 
-![](/images/tumblr_files/marblecake1.jpg)
+![]({{site.url}}/images/tumblr_files/marblecake1.jpg)
