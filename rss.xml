@@ -16,6 +16,7 @@ layout: null
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           <link>{{ post.url | prepend: site.url }}</link>
           <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+					<dc:creator>{{ post.author }}</dc:creator>
 					{% if post.image %}
             <media:content url="{{ site.url }}{{ post.image }}" medium="image" />
 						<enclosure url="{{ site.url }}{{ post.image }}" type="image/jpeg" />
