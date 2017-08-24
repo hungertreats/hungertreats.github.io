@@ -65,7 +65,7 @@ recipe:
       * You can increase or decrease the chilli powder content as per your taste.
       * If the chole masala is made in excess then you can preserve it for a couple of months. Put it in an air tight container and keep in your refrigerator.
 footer: |-
-  <p>If you haven't tried Pindi Chole yet then there's no more excuse to do it and you are going to love it! Do try this recipe at home and let us know how it went. Leave a comment, take a picture, post it on Instagram and tag me @deepika2808.</p>
+  <p>If you haven't tried Pindi Chole yet then there's no more excuse to do it and you are going to love it! Do try this recipe at home and let us know how it went. Leave a comment, take a picture, post it on Instagram and tag us @hungertreats.</p>
   <p>Happy Cooking! :)</p>
 ---
 
