@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Homemade Veg Pizza
+layout: post
+push_sidebar_down: true
+print_stylesheet: true
+comments: true
 date: '2017-08-14T09:25:59+02:00'
 tags:
 - pizza
@@ -8,7 +11,7 @@ tags:
 - vegetarian
 - thin crust
 - cheese
-image: /images/tumblr_files/pizza.jpg
+image: "/images/tumblr_files/pizza.jpg"
 categories:
 - Main Course
 tumblr_url: https://hungertreats.tumblr.com/post/164174854281/homemade-veg-pizza
@@ -81,9 +84,10 @@ recipe:
     9. Bake in a preheated oven at 500 degrees fahrenheit or 260 degree celsius for about 12 - 15 minutes.
     10. Slice and serve veg pizza hot with chilli flakes and oregano on the top.
 footer: |-
-  <p>If you make this, do let me know how it went. Post a picture on Instagram and tag me @deepika2808.</p>
+  <p>If you make this, do let us know how it went. Post a picture on Instagram and tag us @hungertreats.</p>
   <p>Happy Cooking! :)</p>
 ---
+
 This pizza crust made at home is fabulous! It has the perfect thickness, softness and yeastiness!
 Oh and the homemade pizza sauce? Wait until you try it!! You’re not gonna believe how bold it tastes without even having to simmer all day! Pile on your favorite toppings and get ready to chow down!🍕
 
