@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Veg Patiala|Paneer Stuffed Papad Rolls
+layout: post
+push_sidebar_down: true
+print_stylesheet: true
+comments: true
 date: '2017-07-31T16:53:43+02:00'
 categories:
 - Main Course
@@ -13,7 +16,7 @@ tags:
 - vegetarian
 - gravy
 tumblr_url: https://hungertreats.tumblr.com/post/163649535261/veg-patiala-paneer-stuffed-papad-rolls
-image: /images/tumblr_files/vegpatiala.jpg
+image: "/images/tumblr_files/vegpatiala.jpg"
 recipe:
   servings: 4
   prep: 30 minutes
@@ -54,34 +57,32 @@ recipe:
     * **For Garnishing**
     * 50 Grams Grated Paneer
     * Fresh Coriander Leaves
-
-  directions_markdown: |-
-    1. Heat oil in a pan, add cumin seeds and chopped dry fruits. Also add the grated vegetables. Give it a toss.
-    2. Add french beans to the mixture and mix them well.
-    3. Add red chilli powder, turmeric powder, garam masala powder and salt. Mix it well.
-    4. On a low flame, cover the lid and cook it for 3 to 4 minutes.
-    5. Add coriander leaves and give it a mix.
-    6. Cut papad into half and apply water to make it moist.
-    7. Place the stuffing in the center and seal the papad with the help of cornflour and water mixture.
-    8. You can also make the traditional cylinder style papad rolls. For that, place the stuffing on the left side of the papad & keep folding it from all the sides. Seal it with cornflour and water mixture at every fold.
-    9. Now, heat oil in a pan on medium flame and place the papad rolls.
-    Fry papad on all sides till golden brown.
-    Stuffed papad rolls are ready. Place them on an absorbent paper and keep aside.
-    10. For gravy, heat ghee in a pan. Add cumin and fennel seeds.
-    11. Once the cumin and fennel seeds starts crackling, add ginger garlic paste, onion paste and cook well.
-    12. Once cooked, add tomato puree and mix evenly.Allow them to cook.
-    13. Now, add red chilli powder, turmeric powder, garam masala, cumin and coriander seed powder and mix well.
-    14. Cover it and cook it for 10 to 15 minutes.
-    15. Once cooked, add water and salt and allow it to cook for 4 to 5 minutes.
-    16. Place the papad rolls in the gravy and coat them well.
-    17. Add butter and fresh cream to the gravy and mix properly.  
-    18. Let it cook for 1-2 minutes.
-    19. Garnish it with fresh coriander leaves and paneer and serve hot!
+  directions_markdown: "1. Heat oil in a pan, add cumin seeds and chopped dry fruits.
+    Also add the grated vegetables. Give it a toss.\n2. Add french beans to the mixture
+    and mix them well.\n3. Add red chilli powder, turmeric powder, garam masala powder
+    and salt. Mix it well.\n4. On a low flame, cover the lid and cook it for 3 to
+    4 minutes.\n5. Add coriander leaves and give it a mix.\n6. Cut papad into half
+    and apply water to make it moist.\n7. Place the stuffing in the center and seal
+    the papad with the help of cornflour and water mixture.\n8. You can also make
+    the traditional cylinder style papad rolls. For that, place the stuffing on the
+    left side of the papad & keep folding it from all the sides. Seal it with cornflour
+    and water mixture at every fold.\n9. Now, heat oil in a pan on medium flame and
+    place the papad rolls.\nFry papad on all sides till golden brown.\nStuffed papad
+    rolls are ready. Place them on an absorbent paper and keep aside.\n10. For gravy,
+    heat ghee in a pan. Add cumin and fennel seeds.\n11. Once the cumin and fennel
+    seeds starts crackling, add ginger garlic paste, onion paste and cook well.\n12.
+    Once cooked, add tomato puree and mix evenly.Allow them to cook.\n13. Now, add
+    red chilli powder, turmeric powder, garam masala, cumin and coriander seed powder
+    and mix well.\n14. Cover it and cook it for 10 to 15 minutes.\n15. Once cooked,
+    add water and salt and allow it to cook for 4 to 5 minutes.\n16. Place the papad
+    rolls in the gravy and coat them well.\n17. Add butter and fresh cream to the
+    gravy and mix properly.  \n18. Let it cook for 1-2 minutes.\n19. Garnish it with
+    fresh coriander leaves and paneer and serve hot!"
 footer: |-
-  <p>If you make this, do let me know how it went. Post a picture on Instagram and tag me @deepika2808.</p>
+  <p>If you make this, do let us know how it went. Post a picture on Instagram and tag us @hungertreats.</p>
   <p>Happy Cooking! :)</p>
-
 ---
+
 Mouth watering and unique in taste! This is a delicious accompaniment with your parathas and rotis!🍲
 
 Here is the complete recipe:
