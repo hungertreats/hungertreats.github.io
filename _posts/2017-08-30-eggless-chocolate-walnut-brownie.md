@@ -6,13 +6,13 @@ print_stylesheet: true
 comments: true
 date: '2017-09-02 17:12:00'
 tags:
-- potato
-- honey
-- fries
+- brownie
+- eggless
+- dessert
 - vegetarian
-- spicy
+- chocolate
 - sweet
-- snacks
+- walnut
 image: "/images/post_images/brownie.jpg"
 categories:
 - Desserts
