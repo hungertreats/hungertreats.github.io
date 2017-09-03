@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<article class="post">
+<article class="post h-recipe">
 	{% include post-heading.html post=page post_page=true %}
-	<div class="image">
+	<div class="image u-photo">
 		<img src="{{site.url}}{{ page.image }}" alt="{{ page.title }}">
 	</div>
 
@@ -17,13 +17,16 @@ layout: default
 		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
 	</ul>
 
+	<time style="display: none;" class="dt-duration" datetime="1H">{{ page.recipe.cook }}</time>
+	<data style="display: none;" class="p-yield" value="{{ page.recipe.servings }}">{{ page.recipe.servings }}</data>
+
 	<div class="recipe-contents">
 		<div class="ingredients">
 			<h2>Ingredients</h2>
 			{{ page.recipe.ingredients_markdown | markdownify }}
 		</div>
 
-		<div class="directions">
+		<div class="directions e-instructions">
 			<h2>Directions</h2>
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>

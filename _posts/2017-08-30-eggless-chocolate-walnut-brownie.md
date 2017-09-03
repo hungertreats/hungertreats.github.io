@@ -21,16 +21,16 @@ recipe:
   prep: 15 minutes
   cook: 30 minutes
   ingredients_markdown: |-
-    * 1 cup All Purpose Flour/Maida
-    * ½ cup Cocoa Powder
-    * ¾ cup + 2 tbsp of Powdered Sugar
-    * 1 teaspoon Baking Soda
-    * ⅓ cup of oil (You can also use melted butter or a mixture of both)
-    * 1 cup Full Fat Milk (At room temperature)
-    * 1 teaspoon Vinegar
-    * ½ teaspoon Vanilla Essence
-    * A fistful of chopped walnuts
-    * A pinch of salt
+    * {:.p-ingredient} 1 cup All Purpose Flour/Maida
+    * {:.p-ingredient} ½ cup Cocoa Powder
+    * {:.p-ingredient} ¾ cup + 2 tbsp of Powdered Sugar
+    * {:.p-ingredient} 1 teaspoon Baking Soda
+    * {:.p-ingredient} ⅓ cup of oil (You can also use melted butter or a mixture of both)
+    * {:.p-ingredient} 1 cup Full Fat Milk (At room temperature)
+    * {:.p-ingredient} 1 teaspoon Vinegar
+    * {:.p-ingredient} ½ teaspoon Vanilla Essence
+    * {:.p-ingredient} A fistful of chopped walnuts
+    * {:.p-ingredient} A pinch of salt
   directions_markdown: |-
     1. Mix the milk with vinegar and keep aside. Instead of using the milk+vinegar mixture, you can also use buttermilk here.
     2. In a large bowl, sift together the flour, soda, cocoa powder and salt.   Mix well and add the powdered sugar to this and stir well to combine.
