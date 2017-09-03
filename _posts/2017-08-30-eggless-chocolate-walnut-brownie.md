@@ -32,6 +32,7 @@ recipe:
     * {:.p-ingredient} A fistful of chopped walnuts
     * {:.p-ingredient} A pinch of salt
   directions_markdown: |-
+    {:.e-instructions}
     1. Mix the milk with vinegar and keep aside. Instead of using the milk+vinegar mixture, you can also use buttermilk here.
     2. In a large bowl, sift together the flour, soda, cocoa powder and salt.   Mix well and add the powdered sugar to this and stir well to combine.
     3. Add oil and vanilla to the milk + vinegar mixture that's been set aside.
