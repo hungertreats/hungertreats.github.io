@@ -21,21 +21,21 @@ recipe:
   prep: 15 minutes
   cook: 30 minutes
   ingredients_markdown: |-
-    * 3 Large Potatoes, peeled
-    * 1 tbsp Red Chilli Sauce
-    * 1/2 cup Cornflour
-    * Oil, to deep fry
-    * 1 tbsp Olive Oil
-    * 4-5 Dried Red Chillies
-    * 1 tbsp White Sesame Seeds/Safed Til
-    * 1 tbsp Crushed Garlic
-    * 1/2 tsp Red Chilli Powder
-    * 1 tbsp Dark Soy Sauce
-    * 2 tbsp Vinegar
-    * Salt as per taste
-    * 1/2 cup Honey
-    * 2-3 stalks Spring Onion Greens, roughly chopped
-    * Coriander leaves, for garnishing
+    * {:.p-ingredient} 3 Large Potatoes, peeled
+    * {:.p-ingredient} 1 tbsp Red Chilli Sauce
+    * {:.p-ingredient} 1/2 cup Cornflour
+    * {:.p-ingredient} Oil, to deep fry
+    * {:.p-ingredient} 1 tbsp Olive Oil
+    * {:.p-ingredient} 4-5 Dried Red Chillies
+    * {:.p-ingredient} 1 tbsp White Sesame Seeds/Safed Til
+    * {:.p-ingredient} 1 tbsp Crushed Garlic
+    * {:.p-ingredient} 1/2 tsp Red Chilli Powder
+    * {:.p-ingredient} 1 tbsp Dark Soy Sauce
+    * {:.p-ingredient} 2 tbsp Vinegar
+    * {:.p-ingredient} Salt as per taste
+    * {:.p-ingredient} 1/2 cup Honey
+    * {:.p-ingredient} 2-3 stalks Spring Onion Greens, roughly chopped
+    * {:.p-ingredient} Coriander leaves, for garnishing
   directions_markdown: "1. Cut each potato in half the long way, lay the cut side
     flat on the cutting surface and cut into 1/2-inch to 1/4-inch slices. Stack these
     slices and cut into the same width sticks. Repeat with remaining potatoes.  \n2.

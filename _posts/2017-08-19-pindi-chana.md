@@ -18,23 +18,30 @@ recipe:
   servings: 4
   prep: 25 minutes
   cook: 40 minutes
-  ingredients_markdown: "* **For Pressure Cook**\n* 1 Cup White Chickpeas/Kabuli Chana\n*
-    1 Tea Bag or 1 teaspoon Dried Tea leaves\n* 1 inch Cinnamon Stick or 1 teaspoon
-    Cinnamon Powder\n* 2 Cloves\n* 2 Green Cardamoms\n* 1 tablespoon Split Bengal
-    Gram/Chana dal\n* A pinch of Baking Soda\n* A pinch of Salt\n* 2 Cups Water\n*
-    **To Roast and Grind**\n* 3-5 Black Peppercorns\n* 3 Dried Kashmiri Red Chillies\n*
-    1/4 teaspoon Carom Seeds\n* 1 tablespoon Coriander Seeds\n* 1 tablespoon Cumin
-    Seeds\n* 1 tablespoon Dried Pomegranate Seeds/Sukha Anardana (see notes)\n* **To
-    Mix Together**\n* 1 teaspoon Red Chilli Powder\n* 1/2 teaspoon Turmeric Powder\n*
-    1 teaspoon Dry Mango Powder/Amchur Powder\n* 1/4 teaspoon Garam Masala\n* 1/4
-    teaspoon Black Salt\n* 1 teaspoon Dried Fenugreek Leaves/Kasoori Methi\n* Salt
-    as per taste \n* **For Gravy**\n* 2 Large Onions, roughly chopped\n* 5-6 cloves
-    Garlic\n* 1 teaspoon grated Ginger\n* 2-3 Medium Green Chillies\n* 2 tablespoon
-    Coriander Leaves\n* 1 Large Tomato, pureed to a fine paste\n* 2 tablespoon Olive
-    Oil\n* **For Garnishing(Optional)** \n* Long  and thinly sliced ginger\n* Lemon
-    Juice\n* Coriander Leaves\n* Thin slices of Onion & Tomatoes\n* Slit Green Chillies\n*
-    **For Tempering(Optional)** \n* 2 tablespoon Clarified Butter/Ghee\n*  1 tablespoon
-    Mustard  and Cumin seeds\n* A pinch of Asafoetida/Heeng"
+  ingredients_markdown: "* **For Pressure Cook**\n* {:.p-ingredient} 1 Cup White Chickpeas/Kabuli
+    Chana\n* {:.p-ingredient} 1 Tea Bag or 1 teaspoon Dried Tea leaves\n* {:.p-ingredient}
+    1 inch Cinnamon Stick or 1 teaspoon Cinnamon Powder\n* {:.p-ingredient} 2 Cloves\n*
+    {:.p-ingredient} 2 Green Cardamoms\n* {:.p-ingredient} 1 tablespoon Split Bengal
+    Gram/Chana dal\n* {:.p-ingredient} A pinch of Baking Soda\n* {:.p-ingredient}
+    A pinch of Salt\n* {:.p-ingredient} 2 Cups Water\n* **To Roast and Grind**\n*
+    {:.p-ingredient} 3-5 Black Peppercorns\n* {:.p-ingredient} 3 Dried Kashmiri Red
+    Chillies\n* {:.p-ingredient} 1/4 teaspoon Carom Seeds\n* {:.p-ingredient} 1 tablespoon
+    Coriander Seeds\n* {:.p-ingredient} 1 tablespoon Cumin Seeds\n* {:.p-ingredient}
+    1 tablespoon Dried Pomegranate Seeds/Sukha Anardana (see notes)\n* **To Mix Together**\n*
+    {:.p-ingredient} 1 teaspoon Red Chilli Powder\n* {:.p-ingredient} 1/2 teaspoon
+    Turmeric Powder\n* {:.p-ingredient} 1 teaspoon Dry Mango Powder/Amchur Powder\n*
+    {:.p-ingredient} 1/4 teaspoon Garam Masala\n* {:.p-ingredient} 1/4 teaspoon Black
+    Salt\n* {:.p-ingredient} 1 teaspoon Dried Fenugreek Leaves/Kasoori Methi\n* {:.p-ingredient}
+    Salt as per taste \n* **For Gravy**\n* {:.p-ingredient} 2 Large Onions, roughly
+    chopped\n* {:.p-ingredient} 5-6 cloves Garlic\n* {:.p-ingredient} 1 teaspoon grated
+    Ginger\n* {:.p-ingredient} 2-3 Medium Green Chillies\n* {:.p-ingredient} 2 tablespoon
+    Coriander Leaves\n* {:.p-ingredient} 1 Large Tomato, pureed to a fine paste\n*
+    {:.p-ingredient} 2 tablespoon Olive Oil\n* **For Garnishing(Optional)** \n* {:.p-ingredient}
+    Long  and thinly sliced ginger\n* {:.p-ingredient} Lemon Juice\n* {:.p-ingredient}
+    Coriander Leaves\n* {:.p-ingredient} Thin slices of Onion & Tomatoes\n* {:.p-ingredient}
+    Slit Green Chillies\n* **For Tempering(Optional)** \n* {:.p-ingredient} 2 tablespoon
+    Clarified Butter/Ghee\n* {:.p-ingredient}  1 tablespoon Mustard  and Cumin seeds\n*
+    {:.p-ingredient} A pinch of Asafoetida/Heeng"
   directions_markdown: "1. Soak chickpeas for 8-9 hours or overnight. Drain the excess
     water and rinse them in cold water for 2-3 minutes.\n2. Put tea bag/powder, cinnamon,
     cloves and coarsely crushed cardamom in 2 cups water and boil for 2-3 minutes.

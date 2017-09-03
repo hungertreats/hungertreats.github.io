@@ -23,40 +23,40 @@ recipe:
   cook: 45 minutes
   ingredients_markdown: |-
     * **For Papad Rolls**
-    * 50 Grams Grated Paneer/Cottage Cheese (You can also use Tofu)
-    * 1 tbsp Olive Oil
-    * 1 cup Grated Vegetables(Capsicum, Onion, Carrots or any other vegetables of your choice)
-    * 1/3 cup Chopped French Beans
-    * 2 tbsp Chopped Coriander Leaves
-    * 1 teaspoon Cumin Seeds
-    * ½ teaspoon Turmeric Powder
-    * 1 teaspoon Red Chilli Powder
-    * 2 tablespoon Chopped Mix Dry Fruits (Cashew, Almonds, Pistachios)
-    * 1 teaspoon Garam Masala
-    * Salt as per taste
-    * 3 Papad (Moong or Urad)
-    * Water for Soaking Papad
-    * 1 tbsp cornflour + 3tbsp water mixture (for sealing papads)
-    * Oil to Shallow Fry
+    * {:.p-ingredient} 50 Grams Grated Paneer/Cottage Cheese (You can also use Tofu)
+    * {:.p-ingredient} 1 tbsp Olive Oil
+    * {:.p-ingredient} 1 cup Grated Vegetables(Capsicum, Onion, Carrots or any other vegetables of your choice)
+    * {:.p-ingredient} 1/3 cup Chopped French Beans
+    * {:.p-ingredient} 2 tbsp Chopped Coriander Leaves
+    * {:.p-ingredient} 1 teaspoon Cumin Seeds
+    * {:.p-ingredient} ½ teaspoon Turmeric Powder
+    * {:.p-ingredient} 1 teaspoon Red Chilli Powder
+    * {:.p-ingredient} 2 tablespoon Chopped Mix Dry Fruits (Cashew, Almonds, Pistachios)
+    * {:.p-ingredient} 1 teaspoon Garam Masala
+    * {:.p-ingredient} Salt as per taste
+    * {:.p-ingredient} 3 Papad (Moong or Urad)
+    * {:.p-ingredient} Water for Soaking Papad
+    * {:.p-ingredient} 1 tbsp cornflour + 3tbsp water mixture (for sealing papads)
+    * {:.p-ingredient} Oil to Shallow Fry
     * **For Gravy**
-    * 2 tablespoon Clarified Butter/Ghee
-    * 1 teaspoon Cumin Seeds
-    * 1 teaspoon Fennel Seeds
-    * 1 tablespoon Ginger-Garlic Paste
-    * ½ cup Onion Paste
-    * 1 teaspoon Garam Masala
-    * ½ teaspoon Turmeric Powder
-    * 1 tsp Cumin Seed Powder
-    * 1 tsp Coriander Powder
-    * 1 tsp Red Chilli Powder
-    * 1 cup Fresh Tomatoes Puree
-    * Salt as per taste
-    * 2 tbsp Fresh Full Fat Cream
-    * 1 tablespoon Butter
-    * Water as required
+    * {:.p-ingredient} 2 tablespoon Clarified Butter/Ghee
+    * {:.p-ingredient} 1 teaspoon Cumin Seeds
+    * {:.p-ingredient} 1 teaspoon Fennel Seeds
+    * {:.p-ingredient} 1 tablespoon Ginger-Garlic Paste
+    * {:.p-ingredient} ½ cup Onion Paste
+    * {:.p-ingredient} 1 teaspoon Garam Masala
+    * {:.p-ingredient} ½ teaspoon Turmeric Powder
+    * {:.p-ingredient} 1 tsp Cumin Seed Powder
+    * {:.p-ingredient} 1 tsp Coriander Powder
+    * {:.p-ingredient} 1 tsp Red Chilli Powder
+    * {:.p-ingredient} 1 cup Fresh Tomatoes Puree
+    * {:.p-ingredient} Salt as per taste
+    * {:.p-ingredient} 2 tbsp Fresh Full Fat Cream
+    * {:.p-ingredient} 1 tablespoon Butter
+    * {:.p-ingredient} Water as required
     * **For Garnishing**
-    * 50 Grams Grated Paneer
-    * Fresh Coriander Leaves
+    * {:.p-ingredient} 50 Grams Grated Paneer
+    * {:.p-ingredient} Fresh Coriander Leaves
   directions_markdown: "1. Heat oil in a pan, add cumin seeds and chopped dry fruits.
     Also add the grated vegetables. Give it a toss.\n2. Add french beans to the mixture
     and mix them well.\n3. Add red chilli powder, turmeric powder, garam masala powder

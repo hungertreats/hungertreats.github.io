@@ -18,22 +18,22 @@ recipe:
   prep: 15 minutes
   cook: 30 minutes
   ingredients_markdown: |-
-    * 150 to 200 grams noodles of your choice
-    * 1 medium to large julienned carrot
-    * 2 to 3 medium julienned onions
-    * 8 to 10 finely chopped or thinly sliced french beans
-    * 1 small to medium julienned capsicum
-    * 6 cloves of garlic
-    * 1 tsp finely chopped/grated ginger
-    * A fistful of spring onion greens (For garnish)
-    * 1 tablespoon soy sauce or as required
-    * 1 tablespoon oil
-    * 1 tablespoon black pepper powder
-    * 1 teaspoon rice vinegar
-    * 1 tsp schezwan sauce
-    * 1 tsp red chilli sauce
-    * 1 tsp green chilli sauce
-    * Salt as per taste
+    * {:.p-ingredient} 150 to 200 grams noodles of your choice
+    * {:.p-ingredient} 1 medium to large julienned carrot
+    * {:.p-ingredient} 2 to 3 medium julienned onions
+    * {:.p-ingredient} 8 to 10 finely chopped or thinly sliced french beans
+    * {:.p-ingredient} 1 small to medium julienned capsicum
+    * {:.p-ingredient} 6 cloves of garlic
+    * {:.p-ingredient} 1 tsp finely chopped/grated ginger
+    * {:.p-ingredient} A fistful of spring onion greens (For garnish)
+    * {:.p-ingredient} 1 tablespoon soy sauce or as required
+    * {:.p-ingredient} 1 tablespoon oil
+    * {:.p-ingredient} 1 tablespoon black pepper powder
+    * {:.p-ingredient} 1 teaspoon rice vinegar
+    * {:.p-ingredient} 1 tsp schezwan sauce
+    * {:.p-ingredient} 1 tsp red chilli sauce
+    * {:.p-ingredient} 1 tsp green chilli sauce
+    * {:.p-ingredient} Salt as per taste
   directions_markdown: |-
     1. For cooking noodles, heat enough water in a pan with salt and few drops of oil.
     2. When the water comes to a boil, add the noodles.

@@ -20,18 +20,18 @@ recipe:
   prep: 15 minutes
   cook: 30 minutes
   ingredients_markdown: |-
-    * 1.5 cups boiled chickpeas (You can also use canned chickpea) 
-    * ½ cup butter 
-    * ¼ cup oats 
-    * 2/3 cup grated coconut 
-    * 1 tbsp sugar
-    * ¼ cup pure maple syrup 
-    * 1½ tablespoon ground cinnamon 
-    * 1 teaspoon pure vanilla extract
-    * ½ teaspoon baking powder 
-    * ¼ teaspoon baking soda 
-    * ¼ teaspoon salt 
-    * ¼ cup chopped walnuts
+    * {:.p-ingredient} 1.5 cups boiled chickpeas (You can also use canned chickpea) 
+    * {:.p-ingredient} ½ cup butter 
+    * {:.p-ingredient} ¼ cup oats 
+    * {:.p-ingredient} 2/3 cup grated coconut 
+    * {:.p-ingredient} 1 tbsp sugar
+    * {:.p-ingredient} ¼ cup pure maple syrup 
+    * {:.p-ingredient} 1½ tablespoon ground cinnamon 
+    * {:.p-ingredient} 1 teaspoon pure vanilla extract
+    * {:.p-ingredient} ½ teaspoon baking powder 
+    * {:.p-ingredient} ¼ teaspoon baking soda 
+    * {:.p-ingredient} ¼ teaspoon salt 
+    * {:.p-ingredient} ¼ cup chopped walnuts
   directions_markdown: |-
     1. Preheat oven to 180°C or 350°F. 
     2. Very lightly grease your baking tray with either oil or butter or line a parchment paper. 

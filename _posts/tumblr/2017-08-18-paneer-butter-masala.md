@@ -19,32 +19,32 @@ recipe:
   prep: 15 minutes
   cook: 25-30 minutes
   ingredients_markdown: |-
-    * 250 grams Paneer cut into 1-inch cubes (You can also use Tofu)
-    * 2 Medium Onions, roughly chopped
-    * 3 Medium Tomatoes, roughly chopped
-    * 3-4 Garlic Cloves
-    * 1.5 teaspoon Chopped Ginger
-    * 2 Medium Green Chillies
-    * 2 Dried Kashmiri Red ChilLies
-    * 1 Medium Bay Leaf
-    * 1 inch Cinnamon Stick
-    * 3 Cloves
-    * 2 Cardamoms
-    * 3-4 Black Peppercorns
-    * 8 Cashewnuts
-    * 1 teaspoon Red Chilli Powder
-    * 1/2 teaspoon Turmeric Powder
-    * 1/2 teaspoon Cumin Seed Powder
-    * 1 teaspoon Coriander Powder
-    * 1 teaspoon Sugar (Optional)
-    * 1 tablespoons Kasoori Methi
-    * 2 tablespoons Fresh Cream
-    * 3 tablespoon Butter
-    * 1 tablespoon Olive Oil
-    * 1/2 cup Full Fat Milk
-    * 1/2 Cup Water
-    * Salt as per taste
-    * Coriander leaves (For Garnishing)
+    * {:.p-ingredient} 250 grams Paneer cut into 1-inch cubes (You can also use Tofu)
+    * {:.p-ingredient} 2 Medium Onions, roughly chopped
+    * {:.p-ingredient} 3 Medium Tomatoes, roughly chopped
+    * {:.p-ingredient} 3-4 Garlic Cloves
+    * {:.p-ingredient} 1.5 teaspoon Chopped Ginger
+    * {:.p-ingredient} 2 Medium Green Chillies
+    * {:.p-ingredient} 2 Dried Kashmiri Red ChilLies
+    * {:.p-ingredient} 1 Medium Bay Leaf
+    * {:.p-ingredient} 1 inch Cinnamon Stick
+    * {:.p-ingredient} 3 Cloves
+    * {:.p-ingredient} 2 Cardamoms
+    * {:.p-ingredient} 3-4 Black Peppercorns
+    * {:.p-ingredient} 8 Cashewnuts
+    * {:.p-ingredient} 1 teaspoon Red Chilli Powder
+    * {:.p-ingredient} 1/2 teaspoon Turmeric Powder
+    * {:.p-ingredient} 1/2 teaspoon Cumin Seed Powder
+    * {:.p-ingredient} 1 teaspoon Coriander Powder
+    * {:.p-ingredient} 1 teaspoon Sugar (Optional)
+    * {:.p-ingredient} 1 tablespoons Kasoori Methi
+    * {:.p-ingredient} 2 tablespoons Fresh Cream
+    * {:.p-ingredient} 3 tablespoon Butter
+    * {:.p-ingredient} 1 tablespoon Olive Oil
+    * {:.p-ingredient} 1/2 cup Full Fat Milk
+    * {:.p-ingredient} 1/2 Cup Water
+    * {:.p-ingredient} Salt as per taste
+    * {:.p-ingredient} Coriander leaves (For Garnishing)
   directions_markdown: |-
     1. In a large pan or kadhai, heat a tablespoon of butter and a tablespoon of oil.
     2. Add red chillies, ginger, garlic, and all the whole spices (bay leaves, cinnamon, cloves, cardamom and peppercorns). Saute for a minute or two and add green chillies, cashew nuts, and onions. Once the onions turn translucent, add the tomatoes. Mix well.

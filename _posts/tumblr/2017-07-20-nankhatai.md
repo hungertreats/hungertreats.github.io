@@ -18,17 +18,17 @@ recipe:
   prep: 35 minutes
   cook: 15-17 minutes
   ingredients_markdown: |-
-    * 1 Cup Ghee/Clarified butter
-    * 1 Cup Castor Sugar
-    * ½ Cup All Purpose Flour
-    * ½ Cup Whole Wheat Flour
-    * ¼ Coarse Semolina
-    * ¼ Chickpea Flour
-    * ½ teaspoon Baking Powder
-    * ¼ teaspoon Baking Soda
-    * ¼ teaspoon Cardamom Powder
-    * A pinch of Salt
-    * Pistachios, chopped into halves
+    * {:.p-ingredient} 1 Cup Ghee/Clarified butter
+    * {:.p-ingredient} 1 Cup Castor Sugar
+    * {:.p-ingredient} ½ Cup All Purpose Flour
+    * {:.p-ingredient} ½ Cup Whole Wheat Flour
+    * {:.p-ingredient} ¼ Coarse Semolina
+    * {:.p-ingredient} ¼ Chickpea Flour
+    * {:.p-ingredient} ½ teaspoon Baking Powder
+    * {:.p-ingredient} ¼ teaspoon Baking Soda
+    * {:.p-ingredient} ¼ teaspoon Cardamom Powder
+    * {:.p-ingredient} A pinch of Salt
+    * {:.p-ingredient} Pistachios, chopped into halves
   directions_markdown: |-
     1. In a bowl beat ghee and castor sugar until light and fluffy and extremely  pale in color.
     2. In a bowl, put all the remaining ingredients (except pistachios) together and mix them well.

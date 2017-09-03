@@ -17,27 +17,27 @@ recipe:
   prep: 15 minutes
   cook: 20 minutes
   ingredients_markdown: |-
-     * 1 cup Chickpea Flour/ Gram Flour
-     * 1.5 tablespoon Fine Semolina
-     * A pinch of Asafoetida
-     * 1 tablespoon Sugar
-     * Salt as per taste
-     * 1.5 teaspoon Eno (Fruit Salt)
-     * ½ teaspoon Citric acid
-     * 2.5 tablespoon Oil
-     * ¾ - 1 cup Water or as required for pouring consistency
+     * {:.p-ingredient} 1 cup Chickpea Flour/ Gram Flour
+     * {:.p-ingredient} 1.5 tablespoon Fine Semolina
+     * {:.p-ingredient} A pinch of Asafoetida
+     * {:.p-ingredient} 1 tablespoon Sugar
+     * {:.p-ingredient} Salt as per taste
+     * {:.p-ingredient} 1.5 teaspoon Eno (Fruit Salt)
+     * {:.p-ingredient} ½ teaspoon Citric acid
+     * {:.p-ingredient} 2.5 tablespoon Oil
+     * {:.p-ingredient} ¾ - 1 cup Water or as required for pouring consistency
      * **For Tempering:**
-     * 1 teaspoon Mustard Seeds 
-     * 1 teaspoon Sesame Seeds
-     * 10-12 Curry Leaves
-     * 1 teaspoon Sugar (optional)
-     * 2-3 tablespoon Water (optional)
-     * 4-5 small Green Chillies
-     * 1 tablespoon Oil
+     * {:.p-ingredient} 1 teaspoon Mustard Seeds 
+     * {:.p-ingredient} 1 teaspoon Sesame Seeds
+     * {:.p-ingredient} 10-12 Curry Leaves
+     * {:.p-ingredient} 1 teaspoon Sugar (optional)
+     * {:.p-ingredient} 2-3 tablespoon Water (optional)
+     * {:.p-ingredient} 4-5 small Green Chillies
+     * {:.p-ingredient} 1 tablespoon Oil
      * **For Garnishing (Optional):**
-     * Scraped Coconut
-     * Sev
-     * Coriander Leaves
+     * {:.p-ingredient} Scraped Coconut
+     * {:.p-ingredient} Sev
+     * {:.p-ingredient} Coriander Leaves
   directions_markdown: |-
     1. In a big bowl add chickpea flour, semolina, asafoetida, salt and sugar. You can store this mix in an airtight container and when ready, mix in the remaining ingredients.
     2. Add oil and citric acid. Add water and mix until well blended.

@@ -21,17 +21,17 @@ recipe:
   prep: 20 minutes
   cook: 20-25 minutes
   ingredients_markdown: |-
-    * 1 Cup + 2 Tbsp Maida/All purpose flour
-    * 1 Tsp Baking Powder
-    * ½ Tsp Baking Soda
-    * 1/3 Cup Vegetable or Olive Oil (You can also use melted unsalted butter.  I used a mixture of both)
-    * ½ Cup Fresh Thick Curd
-    * 1 Cup Powdered Sugar
-    * 1 Tsp Vanilla Essence
-    * 1 Tbsp Icing Sugar
-    * 2 Tbsp Cocoa Powder
-    * 2 Tbsp Water
-    * Milk (If required)
+    * {:.p-ingredient} 1 Cup + 2 Tbsp Maida/All purpose flour
+    * {:.p-ingredient} 1 Tsp Baking Powder
+    * {:.p-ingredient} ½ Tsp Baking Soda
+    * {:.p-ingredient} 1/3 Cup Vegetable or Olive Oil (You can also use melted unsalted butter.  I used a mixture of both)
+    * {:.p-ingredient} ½ Cup Fresh Thick Curd
+    * {:.p-ingredient} 1 Cup Powdered Sugar
+    * {:.p-ingredient} 1 Tsp Vanilla Essence
+    * {:.p-ingredient} 1 Tbsp Icing Sugar
+    * {:.p-ingredient} 2 Tbsp Cocoa Powder
+    * {:.p-ingredient} 2 Tbsp Water
+    * {:.p-ingredient} Milk (If required)
   directions_markdown: |-
     1. Preheat oven at 180 degree Celsius.
     2. Sieve Maida, Baking Powder and Baking Soda in a bowl.

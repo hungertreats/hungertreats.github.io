@@ -21,35 +21,35 @@ recipe:
   cook: 15 minutes per pizza
   ingredients_markdown: |-
     * **For pizza dough**
-    * ½ cup warm water
-    * 1 tsp sugar
-    * 1 tsp active dry yeast
-    * 2 cups All-purpose flour
-    * 3 tbsp olive oil
-    * Salt as per taste
-    * Water as required, to knead
+    * {:.p-ingredient} ½ cup warm water
+    * {:.p-ingredient} 1 tsp sugar
+    * {:.p-ingredient} 1 tsp active dry yeast
+    * {:.p-ingredient} 2 cups All-purpose flour
+    * {:.p-ingredient} 3 tbsp olive oil
+    * {:.p-ingredient} Salt as per taste
+    * {:.p-ingredient} Water as required, to knead
     * **For pizza sauce**
-    * 6 ripped red tomatoes
-    * 2 tsp olive oil
-    * 3 cloves garlic, finely chopped
-    * ¼ onion, finely chopped
-    * 2 tbsp basil leaves, finely chopped
-    * ¾ tsp sugar
-    * ¾ tsp kashmiri red chilli powder
-    * salt to taste
-    * ½ tsp oregano
-    * ¼ tsp chilli flakes
-    * 1 tbsp tomato ketchup
-    * ½ tbsp butter
+    * {:.p-ingredient} 6 ripped red tomatoes
+    * {:.p-ingredient} 2 tsp olive oil
+    * {:.p-ingredient} 3 cloves garlic, finely chopped
+    * {:.p-ingredient} ¼ onion, finely chopped
+    * {:.p-ingredient} 2 tbsp basil leaves, finely chopped
+    * {:.p-ingredient} ¾ tsp sugar
+    * {:.p-ingredient} ¾ tsp kashmiri red chilli powder
+    * {:.p-ingredient} salt to taste
+    * {:.p-ingredient} ½ tsp oregano
+    * {:.p-ingredient} ¼ tsp chilli flakes
+    * {:.p-ingredient} 1 tbsp tomato ketchup
+    * {:.p-ingredient} ½ tbsp butter
     * **For toppings**
-    * 3 tbsp pizza sauce
-    * 5 mushrooms, thinly sliced
-    * 3 tbsp onion, roughly chopped
-    * ¼ cup capsicum, roughly chopped
-    * 9 pickled jalapeños (optional)
-    * ¼ cup black olives, chopped (optional)
-    * ½ cup mozzarella cheese, grated
-    * ½ tsp oregano / italian seasonings / mixed herbs
+    * {:.p-ingredient} 3 tbsp pizza sauce
+    * {:.p-ingredient} 5 mushrooms, thinly sliced
+    * {:.p-ingredient} 3 tbsp onion, roughly chopped
+    * {:.p-ingredient} ¼ cup capsicum, roughly chopped
+    * {:.p-ingredient} 9 pickled jalapeños (optional)
+    * {:.p-ingredient} ¼ cup black olives, chopped (optional)
+    * {:.p-ingredient} ½ cup mozzarella cheese, grated
+    * {:.p-ingredient} ½ tsp oregano / italian seasonings / mixed herbs
   directions_markdown: |-
     **For making pizza dough**
     1. In a large mixing bowl, take warm water, sugar and yeast and give a quick mix until sugar gets completly dissolved.

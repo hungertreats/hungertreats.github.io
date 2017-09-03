@@ -19,14 +19,14 @@ recipe:
   prep: 30 minutes
   cook: 14-15 minutes
   ingredients_markdown: |-
-    * 80 grams or 1/3  cup Unsalted Butter
-    * 125 grams or 1/2 cup Unsweetened Peanut Butter
-    * 200 grams or 1 cup Castor Sugar
-    * 165 grams or 1¼ cup All Purpose Flour
-    * ½ teaspoon Baking Powder
-    * ¼ teaspoon Baking Soda
-    * A pinch of salt
-    * 1 cup Chocolate Chips (Optional)
+    * {:.p-ingredient} 80 grams or 1/3  cup Unsalted Butter
+    * {:.p-ingredient} 125 grams or 1/2 cup Unsweetened Peanut Butter
+    * {:.p-ingredient} 200 grams or 1 cup Castor Sugar
+    * {:.p-ingredient} 165 grams or 1¼ cup All Purpose Flour
+    * {:.p-ingredient} ½ teaspoon Baking Powder
+    * {:.p-ingredient} ¼ teaspoon Baking Soda
+    * {:.p-ingredient} A pinch of salt
+    * {:.p-ingredient} 1 cup Chocolate Chips (Optional)
   directions_markdown: "1. In a bowl, beat together sugar, butter and peanut butter
     with an electric beater until the mixture is fluffy and slightly pale in colour.
     You can also whisk the ingredients if you do not have an electric beater. \n2.

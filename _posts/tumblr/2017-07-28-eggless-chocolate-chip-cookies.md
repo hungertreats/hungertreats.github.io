@@ -19,13 +19,13 @@ recipe:
   prep: 20 minutes
   cook: 10-12 minutes
   ingredients_markdown: |-
-    * 135 gms Maida/All purpose flour
-    * 50 gms Unsalted Butter(At room temperature)
-    * 20 gms Powdered Sugar
-    * ½ teaspoon Vanilla essence
-    * ⅛ teaspoon Salt
-    * ½ cup Chocolate Chips
-    * 1 tablespoon Corn Flour
+    * {:.p-ingredient} 135 gms Maida/All purpose flour
+    * {:.p-ingredient} 50 gms Unsalted Butter(At room temperature)
+    * {:.p-ingredient} 20 gms Powdered Sugar
+    * {:.p-ingredient} ½ teaspoon Vanilla essence
+    * {:.p-ingredient} ⅛ teaspoon Salt
+    * {:.p-ingredient} ½ cup Chocolate Chips
+    * {:.p-ingredient} 1 tablespoon Corn Flour
   directions_markdown: |-
     1. In a bowl, beat butter and sugar together until creamy and fluffy, with a whisk/electric beater. Sieve the flour and salt and add it to the butter and sugar mixture. Add vanilla essence and give it a quick stir.
     2. Add corn flour and combine to form a soft dough. If it doesn’t come together add a few drops of water/milk. Finally, fold the chocolate chips into the dough. Flatten the dough, wrap it in plastic wrap and chill for at least an hour.
