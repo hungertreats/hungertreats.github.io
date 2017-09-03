@@ -45,8 +45,8 @@ recipe:
     10. Bake the cake in a preheated oven at 180 degree Celsius for 20-25 min or till a toothpick comes clean.
     11. Unmould the cake and place it on a wire rack to cool completely.
     12. Cut cake into slices and serve!
-footer: If you try this recipe, do let us know how it went and snap your picture,
-  post it on Instagram and tag us @hungertreats. Happy Baking :)
+footer: If you try this recipe, do let me know how it went and snap your picture,
+  post it on Instagram and tag me @hungertreats. Happy Baking :)
 ---
 
 An easy & delicious cake that never goes out of fashion. Loved the swirls!🍰

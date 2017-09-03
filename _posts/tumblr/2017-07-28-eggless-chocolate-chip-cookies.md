@@ -34,7 +34,7 @@ recipe:
     5. Chill the cookies at this stage for 10 mins while the oven is preheating. Once the oven is preheated, bake the cookies at 180°C for 12-15 minutes or until the edges start turning golden brown. Cool down completely on a wire rack.
     6. The cookies may look soft but once they cool down to room temperature, they turn hard and crisp.
 footer: |-
-  <p>Life is better with freshly baked cookies! :) So enjoy your tea time with your family with these delicious Cookies and let us know how it turned out! Post a picture on Instagram and tag us @hungertreats.
+  <p>Life is better with freshly baked cookies! :) So enjoy your tea time with your family with these delicious Cookies and let me know how it turned out! Post a picture on Instagram and tag me @hungertreats.
   </p>
   <p>Happy Baking!</p>
 ---

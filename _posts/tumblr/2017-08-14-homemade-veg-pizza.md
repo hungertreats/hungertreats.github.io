@@ -84,7 +84,7 @@ recipe:
     9. Bake in a preheated oven at 500 degrees fahrenheit or 260 degree celsius for about 12 - 15 minutes.
     10. Slice and serve veg pizza hot with chilli flakes and oregano on the top.
 footer: |-
-  <p>If you make this, do let us know how it went. Post a picture on Instagram and tag us @hungertreats.</p>
+  <p>If you make this, do let me know how it went. Post a picture on Instagram and tag me @hungertreats.</p>
   <p>Happy Cooking! :)</p>
 ---
 

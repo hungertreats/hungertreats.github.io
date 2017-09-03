@@ -63,7 +63,7 @@ recipe:
       * Add 1/2 cup  water in step 8 and cook for 3-4 minutes if the gravy is too thick.
       * If you like creamier gravy, then add more cream in step 9. Alternatively, if you do not like creamy taste, then you can altogether avoid using cream.
 footer: |-
-  <p>If you give this recipe a try, let us know! Leave a comment, take a picture, post it on Instagram and tag us @hungertreats.</p>
+  <p>If you give this recipe a try, let me know! Leave a comment, take a picture, post it on Instagram and tag me @hungertreats.</p>
   <p>Happy Cooking! :)</p>
 ---
 

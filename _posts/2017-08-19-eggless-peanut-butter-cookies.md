@@ -49,7 +49,7 @@ recipe:
       the sugar content to 175 grams.\n* Skip adding salt if you are using salted
       butter."
 footer: |-
-  <p>Homemade Peanut Butter Cookies are ready to eat. Enjoy them and do let us know if you try this recipe at home! Leave a comment, take a picture, post it on Instagram and tag me @deepika2808.</p>
+  <p>Homemade Peanut Butter Cookies are ready to eat. Enjoy them and do let me know if you try this recipe at home! Leave a comment, take a picture, post it on Instagram and tag me @deepika2808.</p>
   <p>Happy Baking! :)</p>
 ---
 

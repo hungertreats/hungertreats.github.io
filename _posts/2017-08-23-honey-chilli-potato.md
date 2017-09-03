@@ -64,7 +64,7 @@ recipe:
       be sure to serve the fries while they're hot. Do not let the fries sit for too
       long as they will turn sticky in that case."
 footer: |-
-  <p>Do try this recipe at home and let us know how it went. Leave a comment, take a picture, post it on Instagram and tag us @hungertreats</p>
+  <p>Do try this recipe at home and let me know how it went. Leave a comment, take a picture, post it on Instagram and tag me @hungertreats</p>
   <p>Happy Cooking! :)</p>
 ---
 

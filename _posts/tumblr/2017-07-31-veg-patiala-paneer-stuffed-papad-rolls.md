@@ -79,7 +79,7 @@ recipe:
     gravy and mix properly.  \n18. Let it cook for 1-2 minutes.\n19. Garnish it with
     fresh coriander leaves and paneer and serve hot!"
 footer: |-
-  <p>If you make this, do let us know how it went. Post a picture on Instagram and tag us @hungertreats.</p>
+  <p>If you make this, do let me know how it went. Post a picture on Instagram and tag me @hungertreats.</p>
   <p>Happy Cooking! :)</p>
 ---
 
