@@ -18,21 +18,21 @@ recipe:
   cook: 0 minutes
   ingredients_markdown: |-
     * **For Making Balls:**
-     * 1.5 cups boiled chickpeas (You can also use canned chickpeas)
-     * ⅓ cup vanilla protein powder
-     * ¼ cup peanuts (lightly salted)
-     * 4 tablespoons maple syrup
-     * 1 tablespoon scraped coconut
-     * ½ teaspoon vanilla extract
-     * ¼ teaspoon salt
-     * ¼ teaspoon ground cinnamon
-     * 15 almonds
-     * 1/3 cup gluten free old fashioned oats
+     * {:.p-ingredient} 1.5 cups boiled chickpeas (You can also use canned chickpeas)
+     * {:.p-ingredient} ⅓ cup vanilla protein powder
+     * {:.p-ingredient} ¼ cup peanuts (lightly salted)
+     * {:.p-ingredient} 4 tablespoons maple syrup
+     * {:.p-ingredient} 1 tablespoon scraped coconut
+     * {:.p-ingredient} ½ teaspoon vanilla extract
+     * {:.p-ingredient} ¼ teaspoon salt
+     * {:.p-ingredient} ¼ teaspoon ground cinnamon
+     * {:.p-ingredient} 15 almonds
+     * {:.p-ingredient} 1/3 cup gluten free old fashioned oats
     * ** For Chocolate Coating (Optional): **
-     * 2 tablespoons butter melted (I used margarine)
-     * 1½ tablespoons cocoa powder 
-     * ½ tablespoon maple syrup
-     * a pinch of salt
+     * {:.p-ingredient} 2 tablespoons butter melted (I used margarine)
+     * {:.p-ingredient} 1½ tablespoons cocoa powder 
+     * {:.p-ingredient} ½ tablespoon maple syrup
+     * {:.p-ingredient} a pinch of salt
   directions_markdown: |-
     1. Line a baking tray with foil.
     2. In the bowl of a food processor, add chickpeas, protein powder, peanuts, maple syrup, vanilla extract, oats, almonds, salt, and cinnamon. 3. Pulse to combine until all ingredients are mixed together and smooth; stop to scrape the sides if needed. It should be like a soft dough texture.Roll the dough into small balls.
