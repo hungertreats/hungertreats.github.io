@@ -17,9 +17,9 @@ image: "/images/post_images/peppers1.JPG"
 categories:
 - Main Course
 recipe:
-  servings: 12
+  servings: 4
   prep: 15 minutes
-  cook: 15 minutes
+  cook: 50 minutes
   ingredients_markdown: "* {:.p-ingredient} 1 cup Quinoa, thoroughly rinsed and drained
     in chilled water\n* {:.p-ingredient} 2 cup Black Beans, boiled \n* {:.p-ingredient}
     1 cup  Whole Kernel Corn, drained\n* {:.p-ingredient} 4 large Red, Yellow, or
