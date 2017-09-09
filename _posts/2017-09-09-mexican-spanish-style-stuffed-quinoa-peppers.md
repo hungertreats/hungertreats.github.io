@@ -13,7 +13,7 @@ tags:
 - healthy
 - quinoa
 - black beans
-image: "/images/post_images/peppers1.jpg"
+image: "/images/post_images/peppers1.JPG"
 categories:
 - Main Course
 recipe:
@@ -50,10 +50,10 @@ footer: |-
 
 Easy to make, flavorful and full of protein and fiber. And what else? It's completely vegan and gluten free! Enjoy this versatile meal as lunch or dinner and if you want to cheat a little on your meal you can garnish it with grated cheese!🍲🥙
 
-![]({{site.url}}/images/post_images/peppers2.jpg)
+![]({{site.url}}/images/post_images/peppers2.JPG)
 
 These stuffed peppers make a delicious meal with a tossed salad, or serve them along with mashed or baked potatoes. We enjoyed these recently for lunch, but they could really be great for any time of the day! They are entertaining for everyone, since they’re so filling and flavorful. And you know they’re good when they’re hungry-husband approved!
 
-![]({{site.url}}/images/post_images/peppers3.jpg)
+![]({{site.url}}/images/post_images/peppers3.JPG)
 
 The filling is so delicious – loaded with black beans and quinoa cooked in vegetable stock, smoky spices and corn – but it becomes even more delectable once its stuffed into sweet bell peppers and roasted to perfection. And to make them look more richer top them with some shredded cheese just before they come out of the oven and they are good to go.. Whoopy!!!!
