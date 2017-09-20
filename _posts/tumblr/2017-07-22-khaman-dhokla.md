@@ -13,7 +13,7 @@ tags:
 - Starters and Appetizers
 image: "/images/tumblr_files/khaman.jpg"
 categories:
-- Starters and Appetizers
+- Indian Snacks
 tumblr_url: https://hungertreats.tumblr.com/post/163289344306/khaman-dhokla
 recipe:
   servings: 12 pieces
