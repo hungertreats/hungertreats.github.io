@@ -1,14 +1,17 @@
 ---
-layout: post
 title: Khaman Dhokla
+layout: post
+push_sidebar_down: true
+print_stylesheet: true
+comments: true
 date: '2017-07-22T10:19:44+02:00'
 tags:
 - healthyfood
 - savory
 - snack
 - potd
-- Khaman
-image: /images/tumblr_files/khaman.jpg
+- Starters and Appetizers
+image: "/images/tumblr_files/khaman.jpg"
 categories:
 - Indian Snacks
 tumblr_url: https://hungertreats.tumblr.com/post/163289344306/khaman-dhokla
@@ -17,27 +20,27 @@ recipe:
   prep: 15 minutes
   cook: 20 minutes
   ingredients_markdown: |-
-     * {:.p-ingredient} 1 cup Chickpea Flour/ Gram Flour
-     * {:.p-ingredient} 1.5 tablespoon Fine Semolina
-     * {:.p-ingredient} A pinch of Asafoetida
-     * {:.p-ingredient} 1 tablespoon Sugar
-     * {:.p-ingredient} Salt as per taste
-     * {:.p-ingredient} 1.5 teaspoon Eno (Fruit Salt)
-     * {:.p-ingredient} ½ teaspoon Citric acid
-     * {:.p-ingredient} 2.5 tablespoon Oil
-     * {:.p-ingredient} ¾ - 1 cup Water or as required for pouring consistency
-     * **For Tempering:**
-     * {:.p-ingredient} 1 teaspoon Mustard Seeds 
-     * {:.p-ingredient} 1 teaspoon Sesame Seeds
-     * {:.p-ingredient} 10-12 Curry Leaves
-     * {:.p-ingredient} 1 teaspoon Sugar (optional)
-     * {:.p-ingredient} 2-3 tablespoon Water (optional)
-     * {:.p-ingredient} 4-5 small Green Chillies
-     * {:.p-ingredient} 1 tablespoon Oil
-     * **For Garnishing (Optional):**
-     * {:.p-ingredient} Scraped Coconut
-     * {:.p-ingredient} Sev
-     * {:.p-ingredient} Coriander Leaves
+    * {:.p-ingredient} 1 cup Chickpea Flour/ Gram Flour
+    * {:.p-ingredient} 1.5 tablespoon Fine Semolina
+    * {:.p-ingredient} A pinch of Asafoetida
+    * {:.p-ingredient} 1 tablespoon Sugar
+    * {:.p-ingredient} Salt as per taste
+    * {:.p-ingredient} 1.5 teaspoon Eno (Fruit Salt)
+    * {:.p-ingredient} ½ teaspoon Citric acid
+    * {:.p-ingredient} 2.5 tablespoon Oil
+    * {:.p-ingredient} ¾ - 1 cup Water or as required for pouring consistency
+    * **For Tempering:**
+    * {:.p-ingredient} 1 teaspoon Mustard Seeds 
+    * {:.p-ingredient} 1 teaspoon Sesame Seeds
+    * {:.p-ingredient} 10-12 Curry Leaves
+    * {:.p-ingredient} 1 teaspoon Sugar (optional)
+    * {:.p-ingredient} 2-3 tablespoon Water (optional)
+    * {:.p-ingredient} 4-5 small Green Chillies
+    * {:.p-ingredient} 1 tablespoon Oil
+    * **For Garnishing (Optional):**
+    * {:.p-ingredient} Scraped Coconut
+    * {:.p-ingredient} Sev
+    * {:.p-ingredient} Coriander Leaves
   directions_markdown: |-
     1. In a big bowl add chickpea flour, semolina, asafoetida, salt and sugar. You can store this mix in an airtight container and when ready, mix in the remaining ingredients.
     2. Add oil and citric acid. Add water and mix until well blended.
@@ -53,6 +56,7 @@ recipe:
     12. Pour this hot mixture over steamed khaman. 
     13. Garnish it with coconut, coriander leaves and sev and enjoy this delicious and nutritious Gujarati snack with chutney of your choice.
 ---
+
 Khaman Dhokla is a steamed cake prepared with chickpea flour and spices. I love everything about this recipe! It’s soft, spongy and has a wonderful flavour. It is a very quick recipe which makes a delicious snack anytime of the day!
 
 Do try it at your home and let me know your feedback.
