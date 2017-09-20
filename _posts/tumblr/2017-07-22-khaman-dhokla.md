@@ -10,7 +10,7 @@ tags:
 - savory
 - snack
 - potd
-- Starters and Appetizers
+- Indian Snacks
 image: "/images/tumblr_files/khaman.jpg"
 categories:
 - Indian Snacks
