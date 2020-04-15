@@ -79,8 +79,8 @@ recipe:
     4. Leave a centimetre or more and create a dent. This helps the crust to fluff slightly.
     5. Then prick with centre of dough with the help of fork to prevent pizza base from fluffing up like chapati.
     6. Spread pizza sauce generously leaving the sides slightly.
-    7. Add capsicum, onion or any other toppings of your choice.
-    8. Spread generous amount of grated mozzarella cheese over the base and sprinkle italian seasonings.
+    7. Spread generous amount of grated mozzarella cheese over the base and sprinkle italian seasonings.
+    8. Add capsicum, onion or any other toppings of your choice.
     9. Bake in a preheated oven at 500 degrees fahrenheit or 260 degree celsius for about 12 - 15 minutes.
     10. Slice and serve veg pizza hot with chilli flakes and oregano on the top.
 footer: |-
