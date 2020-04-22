@@ -39,11 +39,11 @@ recipe:
     * {:.p-ingredient} 2 tbsp Clarified Butter (Ghee)
     * {:.p-ingredient} Salt, as per taste
     * {:.p-ingredient} A pinch of Asafoetida
-    * {:.p-ingredient} *For Garnish:*
+    * {:.p-ingredient} **For Garnish:**
     * {:.p-ingredient} 1 tbsp Fresh Cream
     * {:.p-ingredient} Chopped Coriander Leaves (Optional)
   directions_markdown: |-
-    1. Wash the lentils for 4-5 minutes twice using your palms and then soak them lentils for 10-12 hours or at least overnight. I usually soak them for at least 12 hours.
+    1. Wash the lentils for 4-5 minutes twice using your palms and then soak them for 10-12 hours or at least overnight. I usually soak them for at least 12 hours.
     2. Once the lentils are soaked completely, wash them, and strain the excess water.
     3. If you are using the pressure cooker to boil the lentils then, add the lentils along with half of the ginger & garlic paste and bay leaf and 4-5 cups water and pressure cook for around 6-7 whistles or until they are almost mashed.
     4. If you are boiling the lentils in an open pot, then cook the lentils with half of the ginger & garlic paste and bay leaf and 4-5 cups of water on a low flame on the stovetop for around 1-2 hours or until the lentils turn soft.
@@ -66,7 +66,7 @@ Dal Makhani which actually translates to "Buttery Lentil" is an authentic and mo
 ![]({{site.url}}/images/post_images/dalmakhani2.jpg)
 
 Few tips to prepare the best Dal Makhani:
-1. *Slow Cooking*: Making it requires a lot of patience. So if you want to get the best version of it, I would suggest that instead of using the pressure cooker, simmer it on a low flame for atleast 1-2 hours. Cooking on low flame enhances the flavors of the dal and also makes it rich in taste. If you don't have the time to simmer it for an hour or two, then you can boil the lentils until they turn soft and while you are preparing the gravy, you can leave it open to simmer on a stove top until your gravy is ready or for atleast 30 minutes.
-2. *Fresh Ingredients*: Using fresh ingredients is a key to this dish. I always prefer to use fresh ingredients like ginger, garlic, tomatoes and onions. You can use the tomato puree and ginger garlic paste, if you want to. But I would suggest that you use the fresh ingredients as their taste and aroma will do magic.
-3. *Free handed portion of butter*: As the name suggests, makhani means a lot of butter. So, keep your hands open to use a generous amount of butter for preparing this. If you have white butter available, that will be the best.
-4. *Dungar Method*: You can give the charcoal smoke (dungar method) to the dal to get a smokey flavor.
+1. **Slow Cooking**: Making it requires a lot of patience. So if you want to get the best version of it, I would suggest that instead of using the pressure cooker, simmer it on a low flame for atleast 1-2 hours. Cooking on low flame enhances the flavors of the dal and also makes it rich in taste. If you don't have the time to simmer it for an hour or two, then you can boil the lentils until they turn soft and while you are preparing the gravy, you can leave it open to simmer on a stove top until your gravy is ready or for atleast 30 minutes.
+2. **Fresh Ingredients**: Using fresh ingredients is a key to this dish. I always prefer to use fresh ingredients like ginger, garlic, tomatoes and onions. You can use the tomato puree and ginger garlic paste, if you want to. But I would suggest that you use the fresh ingredients as their taste and aroma will do magic.
+3. **Free handed portion of butter**: As the name suggests, makhani means a lot of butter. So, keep your hands open to use a generous amount of butter for preparing this. If you have white butter available, that will be the best.
+4. **Dungar Method**: You can give the charcoal smoke (dungar method) to the dal to get a smokey flavor.
