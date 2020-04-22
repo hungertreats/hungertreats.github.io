@@ -74,4 +74,5 @@ Few tips to prepare the best Dal Makhani:
 2. **Fresh Ingredients**: Using fresh ingredients is a key to this dish. I always prefer to use fresh ingredients like ginger, garlic, tomatoes and onions. You can use the tomato puree and ginger garlic paste, if you want to. But I would suggest that you use the fresh ingredients as their taste and aroma will do magic.
 3. **Free handed portion of butter**: As the name suggests, makhani means a lot of butter. So, keep your hands open to use a generous amount of butter for preparing this. If you have white butter available, that will be the best.
 4. **Dungar Method**: You can give the charcoal smoke (dungar method) to the dal to get a smokey flavor.
+
 Here is the complete recipe:
