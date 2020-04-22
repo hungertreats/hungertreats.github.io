@@ -4,7 +4,7 @@ layout: post
 push_sidebar_down: true
 print_stylesheet: true
 comments: true
-date: '2017-09-19 14:35:00'
+date: '2020-04-22 14:35:00'
 tags:
 - dal
 - makhani
@@ -41,27 +41,26 @@ recipe:
     * {:.p-ingredient} A pinch of Asafoetida
     * {:.p-ingredient} *For Garnish:*
     * {:.p-ingredient} 1 tbsp Fresh Cream
-    * {:.p-ingredient} Chopped Coriander Leaves
-
+    * {:.p-ingredient} Chopped Coriander Leaves (Optional)
   directions_markdown: |-
-    1. Wash the lentils for 4-5 minutes twice using your palms and then soak them lentils for 10-12 hours or atleast overnight. I usually soak them for atleast 12 hours.
-    2. Once the lentils are soaked completely, wash them and strain the excess water.
+    1. Wash the lentils for 4-5 minutes twice using your palms and then soak them lentils for 10-12 hours or at least overnight. I usually soak them for at least 12 hours.
+    2. Once the lentils are soaked completely, wash them, and strain the excess water.
     3. If you are using the pressure cooker to boil the lentils then, add the lentils along with half of the ginger & garlic paste and bay leaf and 4-5 cups water and pressure cook for around 6-7 whistles or until they are almost mashed.
-    4. If you are boiling the lentils in an open pot, then cook the lentils with half of the ginger & garlic paste and bay leaf and 4-5 cups of water on a low flame on stove top for around 1-2 hours or until the lentils turns soft
+    4. If you are boiling the lentils in an open pot, then cook the lentils with half of the ginger & garlic paste and bay leaf and 4-5 cups of water on a low flame on the stovetop for around 1-2 hours or until the lentils turn soft.
     5. Meanwhile, heat ghee and 2 tbsp butter in a pan and add asafoetida & cumin seeds and let them crackle.
-    6. Once the cumin seeds starts crackling, add dried red chillies, chopped green chillies, cardamom and remaining ginger garlic paste and cook it for a minute or two.
-    7. Then, add the chopped onions and cook them on a medium flame until they turn golden brown in color. Keep stirring it continuosly so that it doesn't burn.
+    6. Once the cumin seeds start crackling, add dried red chillies, chopped green chillies, cardamom and remaining ginger garlic paste and cook it for a minute or two.
+    7. Then, add the chopped onions and cook them on a medium flame until they turn golden brown in color. Keep stirring it continuously so that it doesn't burn.
     8. Now, add chopped or pureed tomatoes, mix well and cook them until the ghee starts leaving the sides.
-    9. Once the tomatoes are cooked well, add the turmeric powder, red chilli powder and garam masala and salt and mix to combine.
+    9. Once the tomatoes are cooked well, add the turmeric powder, red chili powder, and garam masala and salt and mix to combine.
     10. Now, add the boiled lentils, mash them using a masher and mix well. Add 1/2 cup water (or as required) and stir well.
     11. Simmer the lentils for around 30-45 minutes on a low flame, stirring occasionally.
-    12. Add the the remaining butter, fresh cream and kasuri methi to the dal & keep it on a medium flame for a few minutes and then turn off the flame.
-    13. Serve the hot Dal Makhani garnished with coriander leaves and fresh cream alongwith Naan, Tandoori Roti or Rice.
-
+    12. Add the remaining butter, fresh cream, and Kasuri methi to the dal & keep it on a medium flame for a few minutes and then turn off the flame.
+    13. Serve the hot Dal Makhani garnished with coriander leaves and fresh cream along with Naan, Tandoori Roti or Rice.
 footer: |-
   <p>If you make this recipe, let me know. Leave a comment, rate it, and don’t forget to take a picture and tag it @deepikapgoyal on Instagram so I can see what you come up with. Cheers, friends!!</p>
   <p>Happy Cooking! :)</p>
 ---
+
 Dal Makhani which actually translates to "Buttery Lentil" is an authentic and most known Indian preparation of lentil from the land of flavours – Punjab. A luscious creamy preparation of mix of whole black lentils and kidney beans in butter, mild spices and cream. Authentic dal makhani is prepared using whole black lentils & red kidney beans (sabut urad & rajma in hindi). This is one of the most popular main course dish in India and it's certainly one of my husband's favorite. You will find this on the menu of every Indian restaurant. Usually, in restaurants they prepare the dal makhani a day in advance before they serve it to the customers and then at the time of serving, it is reheated with butter and served with a tempering of dried red chillies, kasuri methi and a dallop of butter(obviously) and cream on the top. They cook it a day earlier so that the taste of dal is enhanced as it can get blended with the spices, butter and cream. The older, the tastier it is. I usually soak it for minimum 12 hrs. Originally, this is a slow cooking dish where you have to cook the dal and the rajma in an open pot on low flame for around 1-2 hrs. But if you don't have that much patience, then you can always pressure cook it for around 6-7 whistles or until both the rajma and dal are almost mashed. Here is the complete recipe:
 
 ![]({{site.url}}/images/post_images/dalmakhani2.jpg)
