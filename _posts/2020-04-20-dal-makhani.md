@@ -25,7 +25,7 @@ recipe:
     * {:.p-ingredient} 2½ Tomatoes (medium sized, finely chopped or pureed)
     * {:.p-ingredient} 1½ tsp Ginger (finely chopped)
     * {:.p-ingredient} 2 tsp Garlic (finely chopped)
-    * {:.p-ingredient} 1 tsp Green Chillies (finely chopped)    
+    * {:.p-ingredient} 1 tsp Green Chillies (finely chopped)
     * {:.p-ingredient} 2 tsp Red Chilli Powder
     * {:.p-ingredient} 1 tsp Cumin Seeds
     * {:.p-ingredient} 1 tsp Garam Masala
@@ -42,7 +42,7 @@ recipe:
     * {:.p-ingredient} *For Garnish:*
     * {:.p-ingredient} 1 tbsp Fresh Cream
     * {:.p-ingredient} Chopped Coriander Leaves
-    
+
   directions_markdown: |-
     1. Wash the lentils for 4-5 minutes twice using your palms and then soak them lentils for 10-12 hours or atleast overnight. I usually soak them for atleast 12 hours.
     2. Once the lentils are soaked completely, wash them and strain the excess water.
@@ -57,17 +57,17 @@ recipe:
     11. Simmer the lentils for around 30-45 minutes on a low flame, stirring occasionally.
     12. Add the the remaining butter, fresh cream and kasuri methi to the dal & keep it on a medium flame for a few minutes and then turn off the flame.
     13. Serve the hot Dal Makhani garnished with coriander leaves and fresh cream alongwith Naan, Tandoori Roti or Rice.
-    
+
 footer: |-
   <p>If you make this recipe, let me know. Leave a comment, rate it, and don’t forget to take a picture and tag it @deepikapgoyal on Instagram so I can see what you come up with. Cheers, friends!!</p>
   <p>Happy Cooking! :)</p>
 ---
-Dal Makhani which actually translates to "Buttery Lentil" is an authentic and most known Indian preparation of lentil from the land of flavours – Punjab. A luscious creamy preparation of mix of whole black lentils and kidney beans in butter, mild spices and cream. Authentic dal makhani is prepared using whole black lentils & red kidney beans (sabut urad & rajma in hindi). This is one of the most popular main course dish in India and it's certainly one of my husband's favorite. You will find this on the menu of every Indian restaurant. Usually, in restaurants they prepare the dal makhani a day in advance before they serve it to the customers and then at the time of serving, it is reheated with butter and served with a tempering of dried red chillies, kasuri methi and a dallop of butter(obviously) and cream on the top. They cook it a day earlier so that the taste of dal is enhanced as it can get blended with the spices, butter and cream. The older, the tastier it is. I usually soak it for minimum 12 hrs. Originally, this is a slow cooking dish where you have to cook the dal and the rajma in an open pot on low flame for around 1-2 hrs. But if you don't have that much patience, then you can always pressure cook it for around 6-7 whistles or until both the rajma and dal are almost mashed. Here is the complete recipe:    
+Dal Makhani which actually translates to "Buttery Lentil" is an authentic and most known Indian preparation of lentil from the land of flavours – Punjab. A luscious creamy preparation of mix of whole black lentils and kidney beans in butter, mild spices and cream. Authentic dal makhani is prepared using whole black lentils & red kidney beans (sabut urad & rajma in hindi). This is one of the most popular main course dish in India and it's certainly one of my husband's favorite. You will find this on the menu of every Indian restaurant. Usually, in restaurants they prepare the dal makhani a day in advance before they serve it to the customers and then at the time of serving, it is reheated with butter and served with a tempering of dried red chillies, kasuri methi and a dallop of butter(obviously) and cream on the top. They cook it a day earlier so that the taste of dal is enhanced as it can get blended with the spices, butter and cream. The older, the tastier it is. I usually soak it for minimum 12 hrs. Originally, this is a slow cooking dish where you have to cook the dal and the rajma in an open pot on low flame for around 1-2 hrs. But if you don't have that much patience, then you can always pressure cook it for around 6-7 whistles or until both the rajma and dal are almost mashed. Here is the complete recipe:
 
 ![]({{site.url}}/images/post_images/dalmakhani2.jpg)
 
 Few tips to prepare the best Dal Makhani:
-1. *Slow Cooking*: Making it requires a lot of patience. So if you want to get the best version of it, I would suggest that instead of using the pressure cooker, simmer it on a low flame for atleast 1-2 hours. Cooking on low flame enhances the flavors of the dal and also makes it rich in taste. If you don't have the time to simmer it for an hour or two, then you can boil the lentils until they turn soft and while you are preparing the gravy, you can leave it open to simmer on a stove top until your gravy is ready or for atleast 30 minutes. 
+1. *Slow Cooking*: Making it requires a lot of patience. So if you want to get the best version of it, I would suggest that instead of using the pressure cooker, simmer it on a low flame for atleast 1-2 hours. Cooking on low flame enhances the flavors of the dal and also makes it rich in taste. If you don't have the time to simmer it for an hour or two, then you can boil the lentils until they turn soft and while you are preparing the gravy, you can leave it open to simmer on a stove top until your gravy is ready or for atleast 30 minutes.
 2. *Fresh Ingredients*: Using fresh ingredients is a key to this dish. I always prefer to use fresh ingredients like ginger, garlic, tomatoes and onions. You can use the tomato puree and ginger garlic paste, if you want to. But I would suggest that you use the fresh ingredients as their taste and aroma will do magic.
 3. *Free handed portion of butter*: As the name suggests, makhani means a lot of butter. So, keep your hands open to use a generous amount of butter for preparing this. If you have white butter available, that will be the best.
 4. *Dungar Method*: You can give the charcoal smoke (dungar method) to the dal to get a smokey flavor.
